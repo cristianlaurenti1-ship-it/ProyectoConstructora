@@ -1,0 +1,6 @@
+.flexbox.contenedor{
+    @extend %flexBasico;
+}
+.card-main{
+    max-width: 25rem;
+}    
