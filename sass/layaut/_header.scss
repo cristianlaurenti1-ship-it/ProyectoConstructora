@@ -7,4 +7,10 @@
     background-position: center;
     height: 95vh;
 }
+.header-contenedor-inferior{
+    @extend %flexAvanzado;
 
+    section{
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+}

@@ -1,5 +1,9 @@
-main, 
-
+.flexbox-contener {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+} 
 
 .logotipo{
     width: 6rem;
@@ -9,6 +13,14 @@ main,
     background-size: cover;
     background-position: center;
     height: 95vh;
+}
 
+.card-main {
+    max-width: 25rem;
+}
+
+.card-main img {
+    max-width: 30rem;
+}
 /*# sourceMappingURL=style.css.map */
 
