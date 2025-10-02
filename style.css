@@ -5,3 +5,10 @@
     padding: 1rem;
     border-radius: 0,5rem;
 }
+
+
+.header-background {
+  background-image: url("..header-background");
+  background-size: cover;
+  background-position: center;
+}
