@@ -11,4 +11,5 @@
   background-image: url("..header-background");
   background-size: cover;
   background-position: center;
+  height: 95vh;
 }
